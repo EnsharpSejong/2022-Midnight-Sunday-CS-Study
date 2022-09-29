@@ -18,7 +18,7 @@
 
 ## 질문 리스트
 
-[운영체제/논리회로](./OperatingSystem/README.md)
+[운영체제/논리회로](./OS/OS.md)
 
 [자료구조/알고리즘/암호학](./DataStructure-Algorithm/README.md)
 
