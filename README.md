@@ -18,17 +18,17 @@
 
 ## 질문 리스트
 
-[운영체제/논리회로](./OS/OS.md)
+[운영체제/논리회로](./OS/README.md)
 
-[자료구조/알고리즘/암호학](./Algo/Algo.md)
+[자료구조/알고리즘/암호학](./Algo/README.md)
 
-[네트워크/보안](./Network/Network.md)
+[네트워크/보안](./Network/README.md)
 
-[데이터베이스](./DB/DB.md)
+[데이터베이스](./DB/README.md)
 
-[Java/JVM/Spring](./Java/Java.md)
+[Java/JVM/Spring](./Java/README.md)
 
-[디자인/테스트/프로그래밍 전반](./Design/Design.md)
+[디자인/테스트/프로그래밍 전반](./Design/README.md)
 
 
 ### 참고한 레포지토리
