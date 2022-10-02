@@ -9,12 +9,16 @@
 
 각자의 말하기 방식이나 더 공부해야할 주제에 대해 피드백해줍니다.
 
+<br/>
+
 ## 공부 자료 정리 방식
 
 1. 해당 질문을 면접에서 받았을 때 어떻게 대답할지 2~3 분 정도의 분량으로 먼저 정리해주세요.
 2. 더 자세한 내용이나, 공부하면서 추가적으로 알게 된 내용들을 추가적으로 적어주세요(옵셔널).
 3. 참고한 자료들을 링크로 첨부해주세요.
 
+
+<br/>
 
 ## 질문 리스트
 
@@ -30,12 +34,44 @@
 
 [디자인/테스트/프로그래밍 전반](./Design/README.md)
 
+<br/>
+
+## 주간 내용
+
+<details>
+<summary>1주차</summary>
+<div markdown="1주차">       
+  태순 : OS-3
+</div>
+<div markdown="1주차">       
+  벽벽 : OS-5
+</div>
+<div markdown="1주차">       
+  성욱 : OS-17
+</div>
+</details>
+
+<details>
+<summary>2주차</summary>
+<div markdown="2주차">       
+  태순 : OS-2, Network-15
+</div>
+<div markdown="2주차">       
+  벽벽 : OS-7, Network-12
+</div>
+<div markdown="2주차">       
+  성욱 : OS-20, Network-16
+</div>
+</details>
+
+<br/>
 
 ### 참고한 레포지토리
 * https://github.com/ksundong/backend-interview-question
 * https://github.com/sirloin-dev/meatplatform/blob/master/job-description/interview-questions.adoc
 * https://github.com/woowacourse-study/2022-Monday-CS-Study
 
+<br/>
 
 ## 좋은 자료
 
