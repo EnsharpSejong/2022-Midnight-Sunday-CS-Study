@@ -62,6 +62,9 @@
 <div markdown="2주차">       
   성욱 : OS-20, Network-16
 </div>
+<div markdown="2주차">       
+  현욱 : OS-4, Network-4
+</div>
 </details>
 
 <br/>
