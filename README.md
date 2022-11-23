@@ -67,6 +67,22 @@
 </div>
 </details>
 
+<details>
+<summary>3주차</summary>
+<div markdown="3주차">       
+  태순 : 
+</div>
+<div markdown="3주차">       
+  벽벽 : 
+</div>
+<div markdown="3주차">       
+  성욱 : 
+</div>
+<div markdown="3주차">       
+  현욱 : OS-10, 
+</div>
+</details>
+
 <br/>
 
 ### 참고한 레포지토리
