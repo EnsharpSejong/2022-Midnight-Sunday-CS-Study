@@ -79,7 +79,7 @@
   성욱 : 
 </div>
 <div markdown="3주차">       
-  현욱 : OS-10, 
+  현욱 : OS-10, DB-21
 </div>
 </details>
 
