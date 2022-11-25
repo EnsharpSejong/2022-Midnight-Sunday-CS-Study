@@ -76,7 +76,7 @@
   벽벽 : 
 </div>
 <div markdown="3주차">       
-  성욱 : 
+  성욱 : OS-18, DB-
 </div>
 <div markdown="3주차">       
   현욱 : OS-10, DB-21
