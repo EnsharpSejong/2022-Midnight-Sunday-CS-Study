@@ -70,7 +70,7 @@
 <details>
 <summary>3주차</summary>
 <div markdown="3주차">       
-  태순 : 
+  태순 : OS-19, DB-1
 </div>
 <div markdown="3주차">       
   벽벽 : 
