@@ -73,7 +73,7 @@
   태순 : OS-19, DB-1
 </div>
 <div markdown="3주차">       
-  벽벽 : OS-21, DB-5
+  벽벽 : OS-16, DB-4
 </div>
 <div markdown="3주차">       
   성욱 : OS-12, DB-7
