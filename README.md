@@ -95,7 +95,7 @@
   성욱 : 
 </div>
 <div markdown="4주차">       
-  현욱 : 
+  현욱 : DB-19, Network-10
 </div>
 </details>
 
