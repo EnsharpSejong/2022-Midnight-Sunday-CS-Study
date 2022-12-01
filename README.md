@@ -86,7 +86,7 @@
 <details>
 <summary>4주차</summary>
 <div markdown="4주차">       
-  태순 : DB-18, Network-1
+  태순 : DB-18, Network-9
 </div>
   <div markdown="4주차">       
   벽벽 : 
