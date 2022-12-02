@@ -1,0 +1,9 @@
+## TCP 3, 4 way handshake에 대해서 설명해보세요. 
+
+TCP 3 way Handshake 의 목적은 수신측이 데이터를 받을 준비가 되었는 지 확인하는 과정입니다.
+이를 확인하는 이유는 정보 유실이 없는 통신을 보장하기 위해서입니다. 
+
+먼저 송신자는 Sync-Sent 상태로 수신측에 Syn 패킷을 보냅니다. 수신측이 Sync 패킷을 받으면 Listen 상태에서 Syn-Received 상태로 변하고 Syn, Ack(acknowledgement)로 응답합니다. 
+이 응답을 받은 수신측은 Established 상태로 업데이트하고 Ack 를 수신측으로 보냅니다. 이를 받은 수신측도 상태를 established 로 업데이트합니다. 
+
+TCP 는 이러한 과정 때문에 기존 통신과 새로운 통신을 구분해야하는데 이를 헤더의 Flag 필드를 사용하여 구분합니다. 
