@@ -89,7 +89,7 @@
   태순 : DB-18, Network-9
 </div>
   <div markdown="4주차">       
-  벽벽 : 
+  벽벽 : DB-31, Network-1
 </div>
 <div markdown="4주차">       
   성욱 : DB-16, Network-6
