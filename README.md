@@ -92,7 +92,7 @@
   벽벽 : 
 </div>
 <div markdown="4주차">       
-  성욱 : DB-16, Network-19
+  성욱 : DB-16, Network-6
 </div>
 <div markdown="4주차">       
   현욱 : DB-19, Network-10
