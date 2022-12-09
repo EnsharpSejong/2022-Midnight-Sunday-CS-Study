@@ -102,7 +102,7 @@
 <details>
 <summary>5주차</summary>
 <div markdown="5주차">       
-  태순 :
+  태순 : Design-2, DB-17
 </div>
   <div markdown="5주차">       
   벽벽 : 
