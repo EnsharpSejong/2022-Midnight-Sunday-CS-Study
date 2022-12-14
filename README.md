@@ -108,7 +108,7 @@
   벽벽 : 
 </div>
 <div markdown="5주차">       
-  성욱 : Design-1, DB-24
+  성욱 : Design-19, DB-24
 </div>
 <div markdown="5주차">       
   현욱 : 
